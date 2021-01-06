@@ -1,0 +1,7 @@
+Origin: kresike.github.io
+Label: kresike.github.io
+Codename: buster
+Architectures: amd64
+Components: main
+Description: kresike's personal debian package repository
+SignWith: BCFF53025E2F80E85E72C6A415BA406277351A87

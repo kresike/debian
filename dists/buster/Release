@@ -1,0 +1,19 @@
+Origin: kresike.github.io
+Label: kresike.github.io
+Codename: buster
+Date: Wed, 06 Jan 2021 23:13:20 UTC
+Architectures: amd64
+Components: main
+Description: kresike's personal debian package repository
+MD5Sum:
+ 40e1d7ac587d747f2127746fb9025eda 3202 main/binary-amd64/Packages
+ eaa38f7dc7d1aca3609535ca34bc1624 1509 main/binary-amd64/Packages.gz
+ 523d3acf4fcccf5b4aed3d1d940bf31e 145 main/binary-amd64/Release
+SHA1:
+ be34b0265f36e639f632f0e0ff2e3979d1c2d67b 3202 main/binary-amd64/Packages
+ 4155f04ab21a62a7d25b945effecd6e439e8ea48 1509 main/binary-amd64/Packages.gz
+ b217bf194be314eb1f53cbb382b567d50998b8de 145 main/binary-amd64/Release
+SHA256:
+ d17694b4827442540d5fbffefaa8ff0d1a38acc6eb293a469055ceebfc3ab6b8 3202 main/binary-amd64/Packages
+ 1f01432b3e2a8558d8da10face64f46a1e88c7a1f24408e77ab9cd42a980e239 1509 main/binary-amd64/Packages.gz
+ d41d4c4591afe1df78efbedde7cf20e728dfae0eb9cf3f415a1cef97c6df2452 145 main/binary-amd64/Release

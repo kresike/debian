@@ -1,0 +1,5 @@
+Component: main
+Origin: kresike.github.io
+Label: kresike.github.io
+Architecture: amd64
+Description: kresike's personal debian package repository
