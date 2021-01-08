@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: kresike.github.io
 Label: kresike.github.io
 Codename: buster
-Date: Thu, 07 Jan 2021 07:33:12 UTC
+Date: Fri, 08 Jan 2021 07:42:54 UTC
 Architectures: amd64
 Components: main
 Description: kresike's personal debian package repository
 MD5Sum:
- 58f71fac06e536faabb15e44550a2eda 3202 main/binary-amd64/Packages
- 603cd7af7da9c0a41f5a3da6c7d3bd19 1509 main/binary-amd64/Packages.gz
+ 1c2ce522ba2674fb95d994d558da15a5 3202 main/binary-amd64/Packages
+ 924d0173da628a97775df1a5773ae50c 1508 main/binary-amd64/Packages.gz
  523d3acf4fcccf5b4aed3d1d940bf31e 145 main/binary-amd64/Release
 SHA1:
- 28f1bc5cf06fc7191193923b64689df2db79e6a0 3202 main/binary-amd64/Packages
- 6cb4881de2acedd08d361bbf9ac3652e60a91229 1509 main/binary-amd64/Packages.gz
+ 9a33b02a63a2dd6ba14d473f123bd970316a93db 3202 main/binary-amd64/Packages
+ 13addf2e920905f5416cddbc416ce6dfbe7cc153 1508 main/binary-amd64/Packages.gz
  b217bf194be314eb1f53cbb382b567d50998b8de 145 main/binary-amd64/Release
 SHA256:
- 0f5d4e4531352ddda0cec6f6481099bdb19bfe91653b637d98c4f670c5b13077 3202 main/binary-amd64/Packages
- de18c074b2d53e568baaf1629bea1dfc975f6b2eb46bf1d4644a33f83937c238 1509 main/binary-amd64/Packages.gz
+ 809f8ef1360eae5302568218966a0b8aa590ed03c496e76a5749cef0fde1a0b7 3202 main/binary-amd64/Packages
+ da1ab66b05e42cce3cb54472ed42f00f9b9d457950c4abbbb9647717d02b8389 1508 main/binary-amd64/Packages.gz
  d41d4c4591afe1df78efbedde7cf20e728dfae0eb9cf3f415a1cef97c6df2452 145 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEvP9TAl4vgOhecsakFbpAYnc1GocFAl/2uTgACgkQFbpAYnc1
-GocWYQv/ezPqmdUchGAjgXkEKs0jZau90dQ5TGWK6QZK9yZDgGYAWIe9ZvwBLZoU
-fh/jd6PYYTwqVsvLrTrb0DPLiZaKMbrabitAEM1zL3cyaHuuyMPudnhjeaNgUBgi
-w1f+XA7UMHpjE++U/ErQqmFfyPFVvL/K7O2YW/WbCQCLOqLt4JWjE38tA15tuC8z
-mrK5Bcul74REC6kUyr9282xLkcqTTPoK7vyJiEb9sdy5hMZRHH7aNvd9RYJIZFQ9
-6xh4QQrezwrwlD7HAMBjDp8giwKAYKAEgvDPjiHCAo0+v6d87VyxYuZ8yy3HDcKn
-oYOd2SEHcHuY0jwk7W2hn1xIzNsf5XRTE/Ho94gcnhj23Q4EqD7/7RRHdEU8m7gY
-gE6P3/8u+Xi3aVKYUnnThZNDDJB9KdMlWakOojWyKG3/KOPxOowVGxAsldVIzpon
-LuuTN6zIEWUElWJ4dobIzf+1bNqXi2o1QQUBRdh0+tFl1k9fWuyqCqZ6LGNLIjAf
-EU6QgiVS
-=0J4H
+iQGzBAEBCgAdFiEEvP9TAl4vgOhecsakFbpAYnc1GocFAl/4DP4ACgkQFbpAYnc1
+Gof9qAwAlPotHHohIu4fShj0mh76TQnsdTx27iqpch9UP9/lpwRHqNf2X677RU/1
+nK/iDf8swCLDUplc3DhC5OumDaw1FOTfhp67SDcXdgZqjkERVEP8GenR18YLPE8+
+mVg8z+jCR8IC77+83EJzy0lOAfkZ1cb0Uo2Slwk+Cxo1rPO1pA95Gc8uYUupbyz2
+2Q66xvFL1kyCVbsL7bUkSzyW7TulgHgeeE0RNZLenVH4pse/qPr+Ph1Z78K2aCtO
+ZldDtWJFduDduAojZ3lKx2FrpKVp+1YmjuQ1fkOZyriqfBfchRVhwAzvF0SKTxLC
+xcuLaJISiNZmZutBBGZY7gm1O8DZjcoXcNgrJEWG1QPKj1s6GaMp67LTkmFa4B0F
+7lVvw3FgzlLrYsIjNAHBAUTN7wQJBhjWwOHu7ye0FK7d+VYF2f+woSIBAw9oDa5N
+RpITUdgT7NUW1gp1lPLVWMlvLY06+g7xbqU2lSrhh9nlmN2d8BRV4pNeeE4Av64f
+5ApmGQ6e
+=HsHU
 -----END PGP SIGNATURE-----
