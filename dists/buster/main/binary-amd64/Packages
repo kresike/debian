@@ -27,7 +27,7 @@ Description: Apache traffic collector application. Data is sent to graphite. (pr
  data you collected.
 
 Package: gopopo
-Version: 0.0.3-1
+Version: 0.0.3-2
 Architecture: amd64
 Maintainer: Kiss Károly Pál <kiss.karoly.pal@gmail.com>
 Installed-Size: 11578
@@ -36,11 +36,11 @@ Built-Using: golang-1.14 (= 1.14-2~bpo10+1), golang-fsnotify (= 1.4.7-2), golang
 Homepage: https://github.com/kresike/gopopo
 Priority: optional
 Section: devel
-Filename: pool/main/g/gopopo/gopopo_0.0.3-1_amd64.deb
-Size: 5259996
-SHA256: b0a5694e278d89ca78f5863e5ea42e2804f6d8211a9038b1f64c9642c83eeabf
-SHA1: f440ff83660a991d1f8001a0c69c3371e7578854
-MD5sum: e8b658e3f59e9f0befff210db37b9d53
+Filename: pool/main/g/gopopo/gopopo_0.0.3-2_amd64.deb
+Size: 5261104
+SHA256: bf41218a6bcadea5e5c0ce11861dff88e2abfcd560b29cd62c1c672e88c05ec0
+SHA1: fd4c8bbfc507a614aaac81b2967e5d53ac567824
+MD5sum: 1a1753802ea19ee36864d0d5a749f2db
 Description: GO Postfix Policy server (program)
  gopopo is a policy server for the Postfix mailer written in GO.
  .
