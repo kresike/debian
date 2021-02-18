@@ -26,6 +26,30 @@ Description: Apache traffic collector application. Data is sent to graphite. (pr
  You can use grafana or some other graphing software to visualize the
  data you collected.
 
+Package: golang-github-kresike-postfix-dev
+Source: golang-github-kresike-postfix
+Version: 0.0.3-1
+Architecture: all
+Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Installed-Size: 29
+Homepage: https://github.com/kresike/postfix
+Priority: optional
+Section: devel
+Filename: pool/main/g/golang-github-kresike-postfix/golang-github-kresike-postfix-dev_0.0.3-1_all.deb
+Size: 5700
+SHA256: ba1b76a6530c02127b6630d8e9d8f930ee85e538a786efba34b9387e87eef0d3
+SHA1: 625569c2f8c986325bb6567df10ac4f709683bd2
+MD5sum: f6d3e8120fd996eec33ad802908e7f01
+Description: GO module for handling certain parts of the Postfix mail server ecosystem. (library)
+ postfix is a go module for handling certain parts of the postfix mail
+ server ecosystem.
+ .
+ It has nothing to do with languages or text processing whatsoever, unless
+ you count reading standard map files used by the postfix mail server.
+ .
+ There is very little documentation for this module at the moment, this
+ will change shortly.
+
 Package: gopopo
 Version: 0.0.3-2
 Architecture: amd64
