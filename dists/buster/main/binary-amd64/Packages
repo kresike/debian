@@ -51,7 +51,7 @@ Description: GO module for handling certain parts of the Postfix mail server eco
  will change shortly.
 
 Package: gopopo
-Version: 0.0.4-1
+Version: 0.0.5-1
 Architecture: amd64
 Maintainer: Kiss Károly Pál <kiss.karoly.pal@gmail.com>
 Installed-Size: 11598
@@ -60,11 +60,11 @@ Built-Using: golang-1.14 (= 1.14-2~bpo10+1), golang-fsnotify (= 1.4.7-2), golang
 Homepage: https://github.com/kresike/gopopo
 Priority: optional
 Section: devel
-Filename: pool/main/g/gopopo/gopopo_0.0.4-1_amd64.deb
-Size: 5270108
-SHA256: 1a88ad7b4cb2bd38adb37bb841c0bcd40807351809a40531fe69dd74a2da0b85
-SHA1: 8a5a6525ebdc72c63cb5e455e104953801919781
-MD5sum: d5abe5ed553cdfbb3671ac218c78a22c
+Filename: pool/main/g/gopopo/gopopo_0.0.5-1_amd64.deb
+Size: 5270416
+SHA256: 19a4a1dda39efc1a9efd1062f1997df22f440ac8108916cb1a10d61fb4bdd9ef
+SHA1: 4bc5d8dfdf758337ec796208472bccab1ea4c56c
+MD5sum: b8f5fb93147a01cefe6f32999d52945d
 Description: GO Postfix Policy server (program)
  gopopo is a policy server for the Postfix mailer written in GO.
  .
