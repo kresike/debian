@@ -1,19 +1,19 @@
 Origin: kresike.github.io
 Label: kresike.github.io
 Codename: buster
-Date: Thu, 03 Feb 2022 21:26:22 UTC
+Date: Thu, 12 Jan 2023 10:57:45 UTC
 Architectures: amd64
 Components: main
 Description: kresike's personal debian package repository
 MD5Sum:
- a9dc9fa4492d960971dc1ce5ae15bedf 5007 main/binary-amd64/Packages
- e7153585e9e0a83abcea3aac9dd4ef19 2207 main/binary-amd64/Packages.gz
+ ddf57e1a7131ee042190febf51900ab5 4275 main/binary-amd64/Packages
+ 5b3853ecc6a852cd695b72b4008890fa 1932 main/binary-amd64/Packages.gz
  523d3acf4fcccf5b4aed3d1d940bf31e 145 main/binary-amd64/Release
 SHA1:
- 3da4ec403830beb86fad9a0abb3e755637df5071 5007 main/binary-amd64/Packages
- 4849b29db81432af4b441089ccdfd2260a8506de 2207 main/binary-amd64/Packages.gz
+ c8dcddca79688e5c126aa777c486492ba5b62014 4275 main/binary-amd64/Packages
+ f2d325b654a2c3ede8ba87c8553c256869063dd1 1932 main/binary-amd64/Packages.gz
  b217bf194be314eb1f53cbb382b567d50998b8de 145 main/binary-amd64/Release
 SHA256:
- 5ea64b3a5157a8de864ca7a72ed2682827dcdd14e49fd12e43d794c75b20d6e6 5007 main/binary-amd64/Packages
- 69a922612bbb24b0ba41306d170738695bca8e83f02124bd2fee64df9ef11fd4 2207 main/binary-amd64/Packages.gz
+ 0f7831df76f77a8806f7446481966530d9bb6b946e58d6b967030448c0402161 4275 main/binary-amd64/Packages
+ 16a9edcd12162750fa1ad1c12914bf46c85963b895066bd34ba0c1b9815dd9ea 1932 main/binary-amd64/Packages.gz
  d41d4c4591afe1df78efbedde7cf20e728dfae0eb9cf3f415a1cef97c6df2452 145 main/binary-amd64/Release

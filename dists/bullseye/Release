@@ -1,19 +1,19 @@
 Origin: kresike.github.io
 Label: kresike.github.io
 Codename: bullseye
-Date: Thu, 03 Feb 2022 21:42:44 UTC
+Date: Thu, 12 Jan 2023 10:57:34 UTC
 Architectures: amd64
 Components: main
 Description: kresike's personal debian package repository
 MD5Sum:
- 97858d7921c2cfd4fba6e3a77d9db2e0 2372 main/binary-amd64/Packages
- e6a8493cd3f826789756455b7ea7cae8 1179 main/binary-amd64/Packages.gz
+ 3f919046f6c4d54782c03bdc35c1e65c 3282 main/binary-amd64/Packages
+ 68b42d7790504f1871936522c2f460a8 1542 main/binary-amd64/Packages.gz
  523d3acf4fcccf5b4aed3d1d940bf31e 145 main/binary-amd64/Release
 SHA1:
- 46e8c57108976a823346fb05fe398cf72115ba57 2372 main/binary-amd64/Packages
- 14d52e6fec90983a96d324c8ea94ac95d1d1ce5d 1179 main/binary-amd64/Packages.gz
+ f0912cb23ceaaad77e61389356d80a483127f1df 3282 main/binary-amd64/Packages
+ 7701e42d7cfab9df1c7cd4b083e7c05ad50803e7 1542 main/binary-amd64/Packages.gz
  b217bf194be314eb1f53cbb382b567d50998b8de 145 main/binary-amd64/Release
 SHA256:
- d9affe9cbb8feae504f75d5382042c52c7addd32f1c1fcd183ada307ee267061 2372 main/binary-amd64/Packages
- 509fd562465627966b0255648f8da383564804ffc4f45a1d0d7a0b0d30e8d05a 1179 main/binary-amd64/Packages.gz
+ 32d5ff254cd70a965be3e0df51380880c655c55f49932358794f446338d0a28e 3282 main/binary-amd64/Packages
+ d222760f9a619c50a0776869112c992b7ac56558b21904e9c5a6066c50d0c79e 1542 main/binary-amd64/Packages.gz
  d41d4c4591afe1df78efbedde7cf20e728dfae0eb9cf3f415a1cef97c6df2452 145 main/binary-amd64/Release
